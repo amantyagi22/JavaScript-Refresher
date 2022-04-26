@@ -1,0 +1,10 @@
+// Spread
+const newArray = [...oldArray,1,2]
+const newObject = {...oldObject,newProp:5}
+
+// Rest
+const ans = (...args) => {
+    return args;
+}
+
+console.log(ans(1, 2, 3, 4, 5));
