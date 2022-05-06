@@ -39,3 +39,13 @@ console.log(addTwoNumbers3(3, 4));
 students.map(function (student) {
     return student;
 })
+
+
+// Shallow Copy
+const student1 = students;
+// Deep Copy
+const student2 = [...students];
+
+student1.push(6);
+console.log(students);
+console.log(student1);
