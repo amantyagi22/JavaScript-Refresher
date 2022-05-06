@@ -1,3 +1,0 @@
-1. Add Object
-2. Bold important words in large paragraph
-3. appendChild, createElement, classList Code Screenshot

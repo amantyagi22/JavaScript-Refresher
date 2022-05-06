@@ -7,7 +7,7 @@ const heading4 = document.querySelector(".heading4");
 
 
 
-// console.log(heading3.previousElementSibling);
+console.log(heading3.previousElementSibling);
 
 // heading1.innerHTML = "heading changed"
 
@@ -16,7 +16,7 @@ const heading4 = document.querySelector(".heading4");
 const para = document.createElement("p");
 para.innerText = "This is a paragraph";
 document.body.appendChild(para);
-// document.getElementById("container").appendChild(para);
+document.getElementById("container").appendChild(para);
 
 
 
