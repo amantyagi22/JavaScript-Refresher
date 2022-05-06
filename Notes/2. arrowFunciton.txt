@@ -1,9 +1,0 @@
-//Function
-function myFnc(){
-
-}
-// Arrow function
-const myFunc = () => {
-
-}
-const printMyName = name => name;

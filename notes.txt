@@ -1,0 +1,2 @@
+1. All ES6 functions in upper code including map
+2. 
